@@ -1,4 +1,4 @@
-# adiition code
+# adiition code 
 def sum(a,b,c):
     return a+b+c
 
