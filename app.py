@@ -1,6 +1,5 @@
 def sum(a,b):
-    print(a+b+c)
-    return a+b+c
+    return a+b
 
 # print(sum(10,11))
 
