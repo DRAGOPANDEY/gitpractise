@@ -1,4 +1,7 @@
 def sum(a,b):
     return a+b
 
-sum(10,11)
+# print(sum(10,11))
+
+def mult(a,b):
+    return a*b
